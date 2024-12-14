@@ -1,3 +1,17 @@
+/**
+ * Project: Rail Fence Cipher Implementation
+ * Purpose Details: To encrypt and decrypt text using the Rail Fence Cipher technique.
+ * Course: IST 242
+ * Author: Hamlet Baghdasaryan
+ * Date Developed: 10/18/2024
+ * Last Date Changed: 12/13/2024
+ * Revision: 1.0
+ */
+
+
+
+
+
 import java.util.Scanner;
 
 public class RailFenceCipher {
